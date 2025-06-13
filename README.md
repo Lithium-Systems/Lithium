@@ -39,12 +39,13 @@ Lithium is a custom Android-based operating system for MediaTek-powered Timmkoo 
   
 **Lithium 7** *may* work on the following devices, but they are not officially supported and have not been tested:
 
-- Innioasis G3
-- Innioasis G1
+
   
 **Lithium 7** is *not* supported on the following devices:
 
 - Timmkoo Q8
+- Innioasis G3
+- Innioasis G1 
 
 ## ⛔ Known issues
 
